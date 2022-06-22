@@ -30,10 +30,13 @@ settings:
 - 函数调试：使用pdb.set_trace()，具体用法参考 [pdb](https://docs.python.org/3/library/pdb.html)
 <img style="float: center;" src="./pics/function_debug.png">
 
-- 函数测试：[test_statistics.py](../test/test_statistics.py)
+- 函数测试：[test_statistics.py](.../test/test_statistics.py)
+	- 测试函数
 <img style="float: center;" src="./pics/test.png">
+	- 使用pytest，运行所有的测试文件
+<img style="float: center;" src="./pics/pytest.png">
 
-- 函数用例：[use_statistics.py](../example/use_statistics.py)
+- 函数用例：[use_statistics.py](.../example/use_statistics.py)
 <img style="float: center;" src="./pics/example.png">
 
 
