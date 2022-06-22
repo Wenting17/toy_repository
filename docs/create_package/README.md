@@ -16,29 +16,29 @@ github创建空仓库，设置如下：
 	- requirements.txt
 	- toy_repository 各级目录下添加 \_\_init\_\_.py，toy_repository/\_\_init\_\_.py 中添加版本 \_\_version\_\_ == "0.0.1"
 	- setup.py
-<img style="float: center;" src="./pics/repository_structure.png">
+	<img style="float: center;" src="./pics/repository_structure.png">
 	
 - develop安装：在终端进入包目录，输入 python setup.py develop 进行安装
-<img style="float: center;" src="./pics/setup.png">
+	<img style="float: center;" src="./pics/setup.png">
 
 ## 函数开发
 
 - 定义与调用
 	- 定义函数
 	- 函数的简单使用
-<img style="float: center;" src="./pics/function_def.png">
+	<img style="float: center;" src="./pics/function_def.png">
 
 - 函数调试：使用 pdb.set_trace()，具体用法参考 [pdb](https://docs.python.org/3/library/pdb.html)
-<img style="float: center;" src="./pics/function_debug.png">
+	<img style="float: center;" src="./pics/function_debug.png">
 
 - 函数测试：[test_statistics.py](/test/test_statistics.py)
 	- 测试函数
-<img style="float: center;" src="./pics/test.png">
+	<img style="float: center;" src="./pics/test.png">
 	- 使用pytest，运行所有的测试文件
-<img style="float: center;" src="./pics/pytest.png">
+	<img style="float: center;" src="./pics/pytest.png">
 
 - 函数用例：[use_statistics.py](/example/use_statistics.py)
-<img style="float: center;" src="./pics/example.png">
+	<img style="float: center;" src="./pics/example.png">
 
 
 
