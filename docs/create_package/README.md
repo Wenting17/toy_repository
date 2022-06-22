@@ -14,7 +14,7 @@ github创建空仓库，设置如下：
 
 - git clone仓库到本地，创建包的基本结构，添加必要文件：
 	- requirements.txt
-	- toy_repository 各级目录下添加 \__init\__.py，toy_repository/\__init\__.py 中添加版本 \__version\__ == "0.0.1"
+	- toy_repository 各级目录下添加 \_\_init\_\_.py，toy_repository/\_\_init\_\_.py 中添加版本 \_\_version\_\_ == "0.0.1"
 	- setup.py
 <img style="float: center;" src="./pics/repository_structure.png">
 	
@@ -31,13 +31,13 @@ github创建空仓库，设置如下：
 - 函数调试：使用 pdb.set_trace()，具体用法参考 [pdb](https://docs.python.org/3/library/pdb.html)
 <img style="float: center;" src="./pics/function_debug.png">
 
-- 函数测试：[test_statistics.py](./test/test_statistics.py)
+- 函数测试：[test_statistics.py](/test/test_statistics.py)
 	- 测试函数
 <img style="float: center;" src="./pics/test.png">
 	- 使用pytest，运行所有的测试文件
 <img style="float: center;" src="./pics/pytest.png">
 
-- 函数用例：[use_statistics.py](../example/use_statistics.py)
+- 函数用例：[use_statistics.py](/example/use_statistics.py)
 <img style="float: center;" src="./pics/example.png">
 
 
