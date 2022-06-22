@@ -12,7 +12,7 @@ settings:
 ## 创建基本的包并安装
 
 - 创建包的基本结构，添加必要文件
-<img style="float: center;" src="./pics/repository_structure.png" width="80%">
+<img style="float: center;" src="./pics/repository_structure.png">
 
 必要文件：
 	- requirements.txt
@@ -26,16 +26,16 @@ settings:
 - 定义与调用
 	- 定义函数
 	- 函数的简单使用
-	<img style="float: center;" src="./pics/function_def.png" width="80%">
+<img style="float: center;" src="./pics/function_def.png">
 
 - 函数调试：
-<img style="float: center;" src="./pics/function_debug.png" width="80%">
+<img style="float: center;" src="./pics/function_debug.png">
 
 - 函数测试：[test_statistics.py](../test/test_statistics.py)
-<img style="float: center;" src="./pics/test.png" width="80%">
+<img style="float: center;" src="./pics/test.png">
 
 - 函数用例：[use_statistics.py](../example/use_statistics.py)
-<img style="float: center;" src="./pics/example.png" width="80%">
+<img style="float: center;" src="./pics/example.png">
 
 
 
