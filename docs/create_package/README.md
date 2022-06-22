@@ -1,5 +1,4 @@
-# toy_repository
-create a new package
+# how to create a new package
 
 ## 创建空仓库
 github创建空仓库，设置如下：
