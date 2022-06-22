@@ -39,6 +39,7 @@ github创建空仓库，设置如下：
 	- 测试函数
 	
 	<img style="float: center;" src="./pics/test.png">
+	
 	- 使用pytest，运行所有的测试文件
 	
 	<img style="float: center;" src="./pics/pytest.png">
